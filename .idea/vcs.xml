@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/capstone-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workbook-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workbook-1/BasicCalculator/workbook-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workbook-1/CellPhoneService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workbook-1/MatApp/workbook-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workbook-1/workbook-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workbook-2/HighScoreWins/workbook-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workbook-3/FamousQuotes/workbook-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workbook-4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workbook-4/workbook-4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workshop-3" vcs="Git" />
+  </component>
+</project>

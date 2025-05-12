@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="TheaterReservations" />
+        <module name="BedtimeStories" />
+        <module name="SandwichShop" />
+        <module name="OnlineStore" />
+        <module name="AccountingLedger" />
+        <module name="CellPhoneService (1)" />
+        <module name="BasicCalculator (1)" />
+        <module name="BasicCalculator" />
+        <module name="main" />
+        <module name="first-maven-project" />
+        <module name="FamousQuotes" />
+        <module name="HighScoreWins" />
+        <module name="MatApp" />
+        <module name="FullNameParser" />
+        <module name="FullNameApplication" />
+        <module name="first-maven-project (1)" />
+        <module name="WritePayrollToCSV" />
+        <module name="MatApp (1)" />
+        <module name="CellPhoneService" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

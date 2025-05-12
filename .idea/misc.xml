@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/capstone-1/AccountingLegder/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-1/MatApp/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-1/workbook-1/MatApp/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-1/workbook-1/BasicCalculator/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-1/workbook-1/CellPhoneService/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-1/workbook-1/first-maven-project/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-1/SandwichShop/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-1/BasicCalculator/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-1/CellPhoneService/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-2/HighScoreWins/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-2/FullNameParser/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-2/FullNameApplication/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-2/TheaterReservations/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-3/main/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-3/FamousQuotes/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-3/BedtimeStories/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-3/WritePayrollToCSV/pom.xml" />
+        <option value="$PROJECT_DIR$/workshop-3/OnlineStore/pom.xml" />
+        <option value="$PROJECT_DIR$/first-maven-project/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
