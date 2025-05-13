@@ -29,7 +29,7 @@ Workbook 4 - Workshop - Car Dealership v2.1Y.pdf
 complete this workshop
 ChatGPT said:
 Updated saved memory
-Great! The Car Dealership workshop project is well-structured and broken into five phases. Here’s a complete walkthrough to help you complete the entire project, assuming you're coding in Java using a Maven structure:
+Great! The Car CarDealershipApp workshop project is well-structured and broken into five phases. Here’s a complete walkthrough to help you complete the entire project, assuming you're coding in Java using a Maven structure:
 
         ✅ Phase 1: Build the Data Model
 Create the following Java classes in the models package:
@@ -64,7 +64,7 @@ public class Vehicle {
         return vin + " | " + year + " | " + make + " " + model + " | " + vehicleType + " | " + color + " | " + odometer + " miles | $" + price;
     }
 }
-Dealership.java
+CarDealershipApp.java
 import java.util.ArrayList;
 import java.util.List;
 
@@ -104,10 +104,10 @@ import java.io.*;
         import java.util.*;
 
 public class DealershipFileManager {
-    public Dealership getDealership() {
+    public CarDealershipApp getDealership() {
         try (BufferedReader reader = new BufferedReader(new FileReader("inventory.csv"))) {
             String[] dealerInfo = reader.readLine().split("\\|");
-            Dealership dealership = new Dealership(dealerInfo[0], dealerInfo[1], dealerInfo[2]);
+            CarDealershipApp dealership = new CarDealershipApp(dealerInfo[0], dealerInfo[1], dealerInfo[2]);
 
             String line;
             while ((line = reader.readLine()) != null) {
@@ -131,7 +131,7 @@ public class DealershipFileManager {
         }
     }
 
-    public void saveDealership(Dealership dealership) {
+    public void saveDealership(CarDealershipApp dealership) {
         // To be implemented in Phase 5
     }
 }
@@ -147,7 +147,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class UserInterface {
-    private Dealership dealership;
+    private CarDealershipApp dealership;
 
     public void display() {
         init();
@@ -208,7 +208,7 @@ public class Program {
 ✅ Phase 5: Full Implementation
 Now complete the remaining methods:
 
-All getVehiclesBy* methods in Dealership
+All getVehiclesBy* methods in CarDealershipApp
 
 removeVehicle() and addVehicle() logic
 
